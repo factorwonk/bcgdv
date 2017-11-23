@@ -8,4 +8,4 @@
 
 ## Presentation
 
-PDF of the presentation available [here]()
+PDF of the presentation is [here](https://factorwonk.github.io/bcgdv.pdf)
