@@ -8,4 +8,4 @@
 
 ## Presentation
 
-PDF of the presentation is [here](https://factorwonk.github.io/bcgdv.pdf)
+PDF of the presentation is [here](https://factorwonk.github.io/bcgdv.pdf) and the powerpoint slides are [here](https://factorwonk.github.io/bcgdv.pptx)
